@@ -1,0 +1,9 @@
+gunicorn
+torch
+transformers
+flask
+flask_cors
+shap
+numpy
+matplotlib
+gdown

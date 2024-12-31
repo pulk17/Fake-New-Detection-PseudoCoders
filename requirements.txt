@@ -1,0 +1,1 @@
+pip install flask torch transformers flask-cors shap matplotlib
