@@ -24,14 +24,14 @@ Before running the frontend, ensure you have the following:
 Clone this repository to your local machine:
 
 git clone <repository_url>
-cd <repository_folder>
+cd <repository_folder/fake-news-detector>
 
 
 ### 2. Install Dependencies
 
 Navigate to the project directory and install the required dependencies using npm:
 
-npm 
+npm install
 
 
 ### 3. Run the React App
