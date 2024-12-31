@@ -1,12 +1,10 @@
 # Fake-New-Detector-AI
 This project provides an API for detecting fake news using a BERT-based model. The API provides predictions and explanations for whether a given news headline is real or fake, along with SHAP (SHapley Additive exPlanations) visualizations.
 
-Requirements
+## Requirements
 Install the required dependencies using pip. These dependencies are listed in the requirements.txt file.
 
-# (copy this code into your terminal)
-
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt  
 
 ### 1. Clone the Repository

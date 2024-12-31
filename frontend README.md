@@ -15,7 +15,7 @@ This project provides a frontend interface for detecting fake news using the Fak
 Before running the frontend, ensure you have the following:
 
 1. **React**: Make sure you have Node.js and npm installed. If not, download and install them from the official website: [Node.js](https://nodejs.org/).
-2. **Backend**: Ensure the Fake News Detection API (Flask app) is running on `http://localhost:5000`. This backend should be deployed as outlined in the [backend README](#).
+2. **Backend**: Ensure the Fake News Detection API (Flask app) is running on `http://localhost:5000`. This backend should be deployed as outlined in the [backend README](https://github.com/pulk17/Fake-New-Detection-PseudoCoders/blob/main/backend%20README.md).
 
 ## Getting Started
 
@@ -24,6 +24,7 @@ Before running the frontend, ensure you have the following:
 Clone this repository to your local machine:
 
 git clone <repository_url>
+
 cd <repository_folder/fake-news-detector>
 
 
